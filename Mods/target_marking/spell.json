@@ -22,7 +22,7 @@
     "max_range": 60,
     "min_aoe": 1,
     "max_aoe": 1,
-    "flags": [ "SOMATIC", "VERBAL", "HOSTILE_SUMMON" ],
+    "flags": [ "VERBAL", "HOSTILE_SUMMON" ],
     "min_duration": 30000,
     "max_duration": 150000,
     "duration_increment": 4000
