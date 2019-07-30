@@ -20,6 +20,7 @@
     "base_casting_time": 100,
     "min_range": 5,
     "max_range": 600,
+    "range_increment": 5,
     "min_aoe": 1,
     "max_aoe": 1,
     "flags": [ "VERBAL", "HOSTILE_SUMMON" ],
@@ -49,17 +50,14 @@
     "flags": [ "STUMBLES", "FLIES", "NO_BREATHE", "NOHEAD", "NOGIB" ]
   },
   {
-"id": "bookofaim",
-"type": "GENERIC",
-"name": "You Point, I Shoot.",
-"description": "A turret's autobiography involving a dom commander who points out targets. Weird.",
-"weight": 1,
-"volume": "1 ml",
-"symbol": "?",
-"color": "magenta",
-"use_action": {
-  "type": "learn_spell",
-  "spells": [ "summon_target" ]
-	}
-}
+    "id": "bookofaim",
+    "type": "GENERIC",
+    "name": "You Point, I Shoot.",
+    "description": "A turret's autobiography involving a dom commander who points out targets. Weird.",
+    "weight": 1,
+    "volume": "1 ml",
+    "symbol": "?",
+    "color": "magenta",
+    "use_action": { "type": "learn_spell", "spells": [ "summon_target" ] }
+  }
 ]
