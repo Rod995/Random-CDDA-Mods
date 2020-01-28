@@ -192,7 +192,7 @@
 
 ### furniture-regional_pseudo
 
-Note, this is all fake stuff. Not sure if I should even add it, but alas.
+`Note, this is all fake stuff. Not sure if I should even add it, but alas.`
 
 - f_region_flower
 - f_region_weed
