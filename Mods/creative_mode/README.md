@@ -46,17 +46,17 @@
 
 ### furniture-domestic_plants
 
-- f_indoor_plant
-- f_indoor_plant_y
-- f_plant_harvest
-- f_plant_mature
-- f_plant_seed
-- f_plant_seedling
-- f_planter
-- f_planter_harvest
-- f_planter_mature
-- f_planter_seed
-- f_planter_seedling
+- f_indoor_plant 		(Done)
+- f_indoor_plant_y 		(Done)
+- f_plant_harvest 		(Done)
+- f_plant_mature 		(Done)
+- f_plant_seed 			(Done)
+- f_plant_seedling 		(Done)
+- f_planter 			(Done)
+- f_planter_harvest 	(Done)
+- f_planter_mature 		(Done)
+- f_planter_seed 		(Done)
+- f_planter_seedling 	(Done)
 
 ### furniture-eggs
 
