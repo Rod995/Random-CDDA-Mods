@@ -32,17 +32,17 @@
 
 ### furniture-decorative
 
-- f_bigmirror
-- f_bigmirror_b
-- f_bitts
-- f_shackle
-- f_statue
-- f_mannequin
-- f_birdbath
-- f_rotary_clothesline
-- f_floor_lamp
-- f_winter_wreath
-- f_decorative_tree
+- f_bigmirror 			(Done)
+- f_bigmirror_b 		(Done)
+- f_bitts 				(Done)
+- f_shackle 			(Done)
+- f_statue 				(Done)
+- f_mannequin 			(Done)
+- f_birdbath 			(Done)
+- f_rotary_clothesline 	(Done)
+- f_floor_lamp 			(Done)
+- f_winter_wreath 		(Done)
+- f_decorative_tree  	(Done)
 
 ### furniture-domestic_plants
 
