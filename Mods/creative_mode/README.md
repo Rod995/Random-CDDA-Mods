@@ -1,7 +1,7 @@
 
 # Creative Tools for CDDA
 ## List of furniture added as debug actions.
-### furniture-appliances
+### `furniture-appliances`
 
 - f_air_conditioner 	(Done)
 - f_air_filter			(Done)
@@ -20,7 +20,7 @@
 - f_solar_unit 			(Done)
 
 
-### furniture-barriers
+### `furniture-barriers`
 
 - f_barricade_road		(Done)
 - f_earthbag_half		(Done)
@@ -30,7 +30,7 @@
 - f_sandbag_wall 		(Done)
 
 
-### furniture-decorative
+### `furniture-decorative`
 
 - f_bigmirror 			(Done)
 - f_bigmirror_b 		(Done)
@@ -44,7 +44,7 @@
 - f_winter_wreath 		(Done)
 - f_decorative_tree  	(Done)
 
-### furniture-domestic_plants
+### `furniture-domestic_plants`
 
 - f_indoor_plant 		(Done)
 - f_indoor_plant_y 		(Done)
@@ -58,25 +58,25 @@
 - f_planter_seed 		(Done)
 - f_planter_seedling 	(Done)
 
-### furniture-eggs
+### `furniture-eggs`
 
 - f_egg_sackbw
 - f_egg_sackcs
 - f_egg_sackws
 - f_egg_sacke
 
-### furniture-emitters
+### `furniture-emitters`
 
 - f_swamp_gas
 - f_fog
 
-### furniture-fakes
+### `furniture-fakes`
 
 - f_fake_bench_hands ?
 - f_ground_crafting_spot
 - f_no_item `NOTE: This is a bug thing, don't add.`
 
-### furniture-fireplaces
+### `furniture-fireplaces`
 
 - f_fireplace
 - f_woodstove
@@ -85,7 +85,7 @@
 - f_30gal_firebarrel
 - f_firering
 
-### furniture-flora
+### `furniture-flora`
 
 - f_mutpoppy
 - f_dandelion
@@ -104,7 +104,7 @@
 - f_datura
 - f_leaves_pile
 
-### furniture-fungal
+### `furniture-fungal`
 
 - f_flower_marloss
 - f_flower_fungal
@@ -112,7 +112,7 @@
 - f_fungal_clump
 - f_fungal_tangle
 
-### furniture-graves
+### `furniture-graves`
 
 - f_slab
 - f_grave_head
@@ -120,13 +120,13 @@
 - f_grave_stone_old
 - f_grave_monument
 
-### furniture-industrial
+### `furniture-industrial`
 
 - f_robotic_assembler
 - f_chemical_mixer
 - f_robotic_arm
 
-### furniture-medical
+### `furniture-medical`
 
 - f_autodoc
 - f_autodoc_couch
@@ -152,7 +152,7 @@
 - f_curtain
 - f_curtain_open
 
-### furniture-migo
+### `furniture-migo`
 
 - f_alien_tendril
 - f_alien_anemone
@@ -164,7 +164,7 @@
 - f_alien_pod_resin
 - f_alien_table
 
-### furniture-plumbing
+### `furniture-plumbing`
 
 - f_bathtub
 - f_shower
@@ -173,7 +173,7 @@
 - f_water_heater
 - f_water_purifier
 
-### furniture-recreation
+### `furniture-recreation`
 
 - f_exercise
 - f_ball_mach
@@ -190,7 +190,7 @@
 - f_dancing_pole
 - f_roulette_table
 
-### furniture-regional_pseudo
+### `furniture-regional_pseudo`
 
 `Note, this is all fake stuff. Not sure if I should even add it, but alas.`
 
@@ -200,7 +200,7 @@
 - f_region_flower_decorative
 
 
-### furniture-roof
+### `furniture-roof`
 
 - f_cellphone_booster
 - f_small_satelitte_dish
@@ -209,7 +209,7 @@
 - f_vent_pipe
 - f_roo- f_turbine_vent
 
-### furniture-rural
+### `furniture-rural`
 
 - f_hay
 - f_woodchips
