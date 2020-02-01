@@ -48,27 +48,27 @@
 
 - f_indoor_plant 		(Done)
 - f_indoor_plant_y 		(Done)
-- f_plant_harvest 		(Done)
-- f_plant_mature 		(Done)
-- f_plant_seed 			(Done)
-- f_plant_seedling 		(Done)
+- f_plant_harvest 		(Buggy)
+- f_plant_mature 		(Buggy)
+- f_plant_seed 			(Buggy)
+- f_plant_seedling 		(Buggy)
 - f_planter 			(Done)
-- f_planter_harvest 	(Done)
-- f_planter_mature 		(Done)
-- f_planter_seed 		(Done)
-- f_planter_seedling 	(Done)
+- f_planter_harvest 	(Buggy)
+- f_planter_mature 		(Buggy)
+- f_planter_seed 		(Buggy)
+- f_planter_seedling 	(Buggy)
 
 ### `furniture-eggs`
 
-- f_egg_sackbw
-- f_egg_sackcs
-- f_egg_sackws
-- f_egg_sacke
+- f_egg_sackbw 			(Done)
+- f_egg_sackcs 			(Done)
+- f_egg_sackws 			(Done)
+- f_egg_sacke 			(Done)
 
 ### `furniture-emitters`
 
-- f_swamp_gas
-- f_fog
+- f_swamp_gas 			(Done)
+- f_fog 				(Done)
 
 ### `furniture-fakes`
 
@@ -214,7 +214,7 @@
 - f_hay
 - f_woodchips
 
-### furniture-seats
+### `furniture-seats`
 
 - f_bench
 - f_armchair
@@ -227,13 +227,13 @@
 - f_logstool
 - f_deckchair
 
-### furniture-signs
+### `furniture-signs`
 
 - f_bulletin
 - f_sign
 - f_sign_warning
 
-### furniture-sleep
+### `furniture-sleep`
 
 - f_bed
 - f_bunkbed
@@ -243,7 +243,7 @@
 - f_makeshift_bed
 - f_straw_bed
 
-### furniture-storage
+### `furniture-storage`
 
 - f_bookcase
 - f_entertainment_center
@@ -280,7 +280,7 @@
 - f_dumpster
 - f_butter_churn
 
-### furniture-surfaces
+### `furniture-surfaces`
 
 - f_counter
 - f_counter_gate_c
@@ -294,7 +294,7 @@
 - f_table
 - f_coffee_table
 
-### furniture-terrains
+### `furniture-terrains`
 
 - f_tatami
 - f_pillow_fort
@@ -329,49 +329,49 @@
 - f_traffic_light
 - f_utility_pole
 
-### furniture-tools
+### `furniture-tools`
 
-- f_forge
-- f_anvil
-- f_still
-- f_kiln_empty
-- f_kiln_full
-- f_kiln_metal_empty
-- f_kiln_metal_full
-- f_arcfurnace_empty
-- f_arcfurnace_full
-- f_smoking_rack
-- f_smoking_rack_active
-- f_metal_smoking_rack
-- f_metal_smoking_rack_active
-- f_forge_rock
-- f_clay_kiln
-- f_ladder
-- f_arc_furnace
-- f_drill_press
-- f_tablesaw
-- f_mitresaw
-- f_bandsaw
-- f_router
-- f_planer
-- f_jointer
-- f_hydraulic_press
-- f_heavy_lathe
-- f_air_compressor
-- f_fvat_empty
-- f_fvat_full
-- f_butcher_rack
-- f_metal_butcher_rack
-- f_hanging_meathook
-- f_wind_mill
-- f_wind_mill_active
-- f_water_mill
-- f_water_mill_active
-- f_aut_gas_console
-- f_aut_gas_console_o
-- f_vending_reinforced
-- f_vending_c
-- f_vending_o
+- f_forge 						(Done)
+- f_anvil 						(Done)
+- f_still 						(Done)
+- f_kiln_empty 					(Done)
+- f_kiln_full 					(Done)
+- f_kiln_metal_empty 			(Done)
+- f_kiln_metal_full 			(Done)
+- f_arcfurnace_empty 			(Done)
+- f_arcfurnace_full 			(Done)
+- f_smoking_rack 				(Done)
+- f_smoking_rack_active 		(Done)
+- f_metal_smoking_rack 			(Done)
+- f_metal_smoking_rack_active 	(Done)
+- f_forge_rock 					(Done)
+- f_clay_kiln 					(Done)
+- f_ladder 						(Done)
+- f_arc_furnace 				(Done)
+- f_drill_press 				(Done)
+- f_tablesaw 					(Done)
+- f_mitresaw 					(Done)
+- f_bandsaw 					(Done)
+- f_router 						(Done)
+- f_planer 						(Done)
+- f_jointer 					(Done)
+- f_hydraulic_press 			(Done)
+- f_heavy_lathe 				(Done)
+- f_air_compressor 				(Done)
+- f_fvat_empty 					(Done)
+- f_fvat_full 					(Done)
+- f_butcher_rack 				(Done)
+- f_metal_butcher_rack 			(Done)
+- f_hanging_meathook 			(Done)
+- f_wind_mill 					(Done)
+- f_wind_mill_active 			(Done)
+- f_water_mill 					(Done)
+- f_water_mill_active 			(Done)
+- f_aut_gas_console 			(Done)
+- f_aut_gas_console_o 			(Done)
+- f_vending_reinforced 			(Done)
+- f_vending_c 					(Done)
+- f_vending_o 					(Done)
 
 ## Item Template
 
