@@ -3,31 +3,31 @@
 ## List of furniture added as debug actions.
 ### furniture-appliances
 
-- f_air_conditioner
-- f_air_filter
-- f_dishwasher
-- f_dryer
-- f_fridge
-- f_glass_fridge
-- f_home_furnace
-- f_washer
-- f_oven
-- f_bellows
-- f_drophammer
-- f_shredder
-- f_server
-- f_satellite
-- f_solar_unit
+- f_air_conditioner 	(Done)
+- f_air_filter			(Done)
+- f_dishwasher			(Done)
+- f_dryer				(Done)
+- f_fridge 				(Done)
+- f_glass_fridge		(Done)
+- f_home_furnace		(Done)
+- f_washer 				(Done)
+- f_oven 				(Done)
+- f_bellows 			(Done)
+- f_drophammer 			(Done)
+- f_shredder 			(Done)
+- f_server 				(Done)
+- f_satellite 			(Done)
+- f_solar_unit 			(Done)
 
 
 ### furniture-barriers
 
-- f_barricade_road
-- f_earthbag_half
-- f_earthbag_wall
-- f_lane
-- f_sandbag_half
-- f_sandbag_wall
+- f_barricade_road		(Done)
+- f_earthbag_half		(Done)
+- f_earthbag_wall		(Done)
+- f_lane  				(Done)
+- f_sandbag_half 		(Done)
+- f_sandbag_wall 		(Done)
 
 
 ### furniture-decorative
@@ -373,7 +373,23 @@
 - f_vending_c
 - f_vending_o
 
+## Item Template
 
+```JSON
+[
+	{
+	    "type": "construction",
+	    "id": "constr_debug_itemID",
+	    "description": "Make [itemID]",
+	    "category": "OTHER",
+	    "required_skills": [  [ "fabrication", 0 ] ],
+	    "time": "0 m",
+	    "pre_note": "This is a creative mode thingie that lets you make [itemID]",
+	    "pre_special": "check_empty",
+	    "post_terrain": "itemID"
+  	}
+]
+```
 
 
 
