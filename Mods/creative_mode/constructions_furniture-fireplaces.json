@@ -56,13 +56,13 @@
   	},
   	{
 	    "type": "construction",
-	    "id": "constr_debug_itemID",
-	    "description": "Make [itemID]",
+	    "id": "constr_debug_f_firering",
+	    "description": "Make [f_firering]",
 	    "category": "furniture-fireplaces",
 	    "required_skills": [  [ "fabrication", 0 ] ],
 	    "time": "0 m",
-	    "pre_note": "This is a creative mode thingie that lets you make [itemID]",
+	    "pre_note": "This is a creative mode thingie that lets you make [f_firering]",
 	    "pre_special": "check_empty",
-	    "post_terrain": "itemID"
+	    "post_terrain": "f_firering"
   	}
 ]

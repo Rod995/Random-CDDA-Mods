@@ -298,38 +298,38 @@
 
 ### `furniture-terrains`
 
-- f_tatami
-- f_pillow_fort
-- f_cardboard_fort
-- f_cardboard_wall
-- f_beaded_door
-- f_beaded_door_o
-- f_canvas_floor
-- f_canvas_wall
-- f_large_canvas_wall
-- f_canvas_door
-- f_canvas_door_o
-- f_large_canvas_door
-- f_large_canvas_door_o
-- f_groundsheet
-- f_large_groundsheet
-- f_center_groundsheet
-- f_fema_groundsheet
-- f_skin_wall
-- f_skin_door
-- f_skin_door_o
-- f_skin_groundsheet
-- f_rubble
-- f_rubble_rock
-- f_rubble_landfill
-- f_wreckage
-- f_ash
-- f_boulder_small
-- f_boulder_medium
-- f_boulder_large
-- f_street_light
-- f_traffic_light
-- f_utility_pole
+- f_tatami 						(Done)
+- f_pillow_fort 				(Done)
+- f_cardboard_fort 				(Done)
+- f_cardboard_wall 				(Done)
+- f_beaded_door 				(Done)
+- f_beaded_door_o 				(Done)
+- f_canvas_floor 				(Done)
+- f_canvas_wall 				(Done)
+- f_large_canvas_wall 			(Done)
+- f_canvas_door 				(Done)
+- f_canvas_door_o 				(Done)
+- f_large_canvas_door 			(Done)
+- f_large_canvas_door_o 		(Done)
+- f_groundsheet 				(Done)
+- f_large_groundsheet 			(Done)
+- f_center_groundsheet 			(Done)
+- f_fema_groundsheet 			(Done)
+- f_skin_wall 					(Done)
+- f_skin_door 					(Done)
+- f_skin_door_o 				(Done)
+- f_skin_groundsheet 			(Done)
+- f_rubble 						(Done)
+- f_rubble_rock 				(Done)
+- f_rubble_landfill				(Done)
+- f_wreckage 					(Done)
+- f_ash 						(Done)
+- f_boulder_small 				(Done)
+- f_boulder_medium 				(Done)
+- f_boulder_large 				(Done)
+- f_street_light 				(Done)
+- f_traffic_light 				(Done)
+- f_utility_pole 				(Done)
 
 ### `furniture-tools`
 
