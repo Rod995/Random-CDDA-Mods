@@ -72,18 +72,20 @@
 
 ### `furniture-fakes`
 
+`NOTE: This is a bug thing, don't add.`
+
 - f_fake_bench_hands ?
 - f_ground_crafting_spot
-- f_no_item `NOTE: This is a bug thing, don't add.`
+- f_no_item
 
 ### `furniture-fireplaces`
 
-- f_fireplace
-- f_woodstove
-- f_brazier
-- f_55gal_firebarrel
-- f_30gal_firebarrel
-- f_firering
+- f_fireplace 			(Done)
+- f_woodstove 			(Done)
+- f_brazier 			(Done)
+- f_55gal_firebarrel 	(Done)
+- f_30gal_firebarrel 	(Done)
+- f_firering 			(Done)
 
 ### `furniture-flora`
 
